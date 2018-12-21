@@ -1,0 +1,7 @@
+C:\Proga_5semestr(Sharp)\Programming_Csharp\Lab5\Lab5\obj\Debug\Lab5.csprojResolveAssemblyReference.cache
+C:\Proga_5semestr(Sharp)\Programming_Csharp\Lab5\Lab5\obj\Debug\Lab5.csproj.CoreCompileInputs.cache
+C:\Proga_5semestr(Sharp)\Programming_Csharp\Lab5\Lab5\bin\Debug\Lab5.exe.config
+C:\Proga_5semestr(Sharp)\Programming_Csharp\Lab5\Lab5\bin\Debug\Lab5.exe
+C:\Proga_5semestr(Sharp)\Programming_Csharp\Lab5\Lab5\bin\Debug\Lab5.pdb
+C:\Proga_5semestr(Sharp)\Programming_Csharp\Lab5\Lab5\obj\Debug\Lab5.exe
+C:\Proga_5semestr(Sharp)\Programming_Csharp\Lab5\Lab5\obj\Debug\Lab5.pdb
